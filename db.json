@@ -1,14 +1,9 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "retailerId": "1",
+    "amount": 1000,
+    "paid": false,
+    "repaymentDate": 2023-11-01T00:00:00.000+00:00,
+    "dispursalDate": 2023-10-16T00:00:00.000+00:00
   }
-}
+]
