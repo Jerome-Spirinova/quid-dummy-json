@@ -6,6 +6,13 @@
         "paid": false,
         "repaymentDate": "2023-11-01T00:00:00.000+00:00",
         "dispursalDate": "2023-10-16T00:00:00.000+00:00"
+      },
+      {
+        "retailerId": "1",
+        "amount": 2000,
+        "paid": true,
+        "repaymentDate": "2023-11-01T00:00:00.000+00:00",
+        "dispursalDate": "2023-10-16T00:00:00.000+00:00"
       }
   ]
  }
