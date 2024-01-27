@@ -1,7 +1,7 @@
-[
-  {
+{
+  "repayments": {
     "retailerId": "1",
     "amount": 1000,
     "paid": false
   }
-]
+ }
